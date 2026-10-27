@@ -24,4 +24,5 @@ chroma_db/
 
 # IDE settings
 .vscode/
+
 .idea/
